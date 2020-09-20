@@ -31,3 +31,13 @@ RGB 0,1,2,3,...255
 rgb(255,255,255)
 
 rgb(0,0,255)
+
+identificador (id) - itens únicos
+
+classe (class) - itens que serão repetidos
+
+in-line
+
+block
+
+inline block
