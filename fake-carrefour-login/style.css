@@ -1,0 +1,30 @@
+.cabecalho-principal .container{
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	font-weight: 700;
+}
+
+.promocao{
+	background: #FF0000;
+}
+
+.container-login{
+	background: #CCCCCC;
+}
+
+.cabecalho-principal .container-login{
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+}
+
+.button-face{
+	background: #0000F0;
+	margin: 20px;
+}
+
+.button-google{
+	background: #FFFFFF;
+	margin: 20px;
+}
