@@ -1,4 +1,9 @@
 #banner{
 	width: 50%;
-	align-content: center;
+	/*align-content: center;*/
+
+}
+
+.principal .novidades strong{
+	color: #FF0000;
 }
