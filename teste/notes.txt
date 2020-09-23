@@ -1,0 +1,12 @@
+CSS - Flexbox
+
+display: flex;
+
+Propriedades:
+    flex-direction - define a direção aonde o container será empilhado
+    flex-wrap
+    flex-flow
+    justify-content
+    align-items
+    align-content
+
