@@ -1,7 +1,9 @@
 .flex-container{
     display: flex;
-    flex-wrap: wrap;
-    flex-flow: nowrap column;
+    height: 300px;
+    flex-flow: nowrap row;
+    justify-content: center;
+    align-items: center;
     background-color: dodgerblue;
 }
 
